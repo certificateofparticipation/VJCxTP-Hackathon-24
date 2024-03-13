@@ -6,6 +6,7 @@ Python Notebook that contains our anaylsis on the provided dataset, as well as a
 
 Table of Contents
 
+1. Loading Data, Importing Libraries
 1. Defining Data
 2. EDA
 3. Data Visualisation
